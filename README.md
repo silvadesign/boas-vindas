@@ -5,4 +5,6 @@
 🤹 Habilidades: **PHP, MySQL, HTML5, CSS3, JS, Python.**
 
 💌 Caso esteja interessado em dividir um projeto comigo, ou ter uma conversa descontraída sobre códigos, sinta-se livre pra mandar mensagem: ⤵️
-<p><a href="mailto:designsite@outlook.com.br" target="_blank" alt="Hotmail">Hotmail</a></p>
+
+<a href="https://api.whatsapp.com/send?phone=5577999301495&text=Ol%C3%A1%2C%20Anderson!%20Vi%20seu%20port%C3%B3lio%20online%2C%20poderia%20me%20falar%20mais%20sobre%20seu%20trabalho%3F" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5577999301495&text=Olá%20Anderson,%20tudo%20bem?"/></a>
